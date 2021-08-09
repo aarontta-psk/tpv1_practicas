@@ -1,0 +1,7 @@
+Aarón Nauzet Moreno Sosa
+Iago Quintas Diz
+G12
+
+-Opcionales añadidas:
+  *Barra de Informacion
+  *Guardado y Cargado automatico
